@@ -1,0 +1,11 @@
+#Runing
+env\scripts\activate.bat
+streamlit run app.py
+
+http://103.75.25.78/skripsifti/mhsviewpermohonan.php
+
+#env python 
+python -m venv env
+
+#Activate env 
+python -m venv env
