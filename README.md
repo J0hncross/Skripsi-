@@ -1,4 +1,4 @@
-Step by step untuk menjalankan code memiliki beberapa tahap diantaranya
+Step by step untuk menjalankan code dengan streamlit memiliki beberapa tahap diantaranya
 
 **. Instalasi Program.** Langkah-langkah instalasi
 1. Memastikan bahwa Python memiliki minimal versi Python 3.10
@@ -9,5 +9,5 @@ Step by step untuk menjalankan code memiliki beberapa tahap diantaranya
 **Soruce Code** sudah lengkap seperti yang telah diberikan 
 
 **Manual Pemakaian Program**
-
+Jalankan Streamlit: Di terminal, jalankan perintah berikut: streamlit run app.py
    
